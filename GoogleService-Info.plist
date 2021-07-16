@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>465448662368-8eepe85966u186o00rum2l5oddkk5984.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.465448662368-8eepe85966u186o00rum2l5oddkk5984</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>465448662368-rdhe022hk3pt682upui10vaoa49l8dom.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDK2tLGCj2C8ZSxRANKOMW4mHFQu-_2AOI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>465448662368</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lovislandsocial.app</string>
+	<key>PROJECT_ID</key>
+	<string>lovisland-3c0ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lovisland-3c0ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:465448662368:ios:5d2e44cb3e9f638610da05</string>
+</dict>
+</plist>

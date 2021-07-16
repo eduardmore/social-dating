@@ -1,0 +1,8 @@
+{
+  "name": "LovislandDating",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
